@@ -4,7 +4,7 @@ Read about the process here. The idea is to use the recursive Gram-Schmidt proce
 https://en.wikipedia.org/wiki/Gram%E2%80%93Schmidt_process
 
 ### Solution - Recursive Method
-Implemented a niave and intellegently recursive method for this process, the latter of which is designed to eliminate roundoff errors.
+Implemented a classical and modified recursive method for this process, the latter of which is designed to eliminate roundoff errors.
 
 ### Run Me
 Run with a basic python 2/3 interpreter. Requires only numpy. Output shows some tests conjured up to verify that it is all working. Import into current workspace to orthonormalize your own vector set if you're so inclined.
